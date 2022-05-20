@@ -1,2 +1,7 @@
 # Desafio de Projeto de Git/Github da DIO
-Reposítório criado para Desafio de Projeto
+
+Repositório criado para Desafio de Projeto
+
+## Conteúdos:
+
+- Anotações de aula :book::bookmark:
