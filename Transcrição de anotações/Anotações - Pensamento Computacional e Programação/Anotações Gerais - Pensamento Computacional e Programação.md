@@ -6,15 +6,15 @@
 - Dedução - inverso da indução. A partir de leis e teorias se deduz. Ex: Ciências exatas.
 - Abdução - a partir de algo observado se supõe alguma coisa. Ex: Investigação criminal.
 
-#### ==Pensamento Computacional:==
+#### **Pensamento Computacional:**
 
-- ==Decomposição==
+- **Decomposição**
 
-- ==Padrões==
+- **Padrões**
 
-- ==Abstração==
+- **Abstração**
 
-- ==Algoritmo==
+- **Algoritmo**
 
   
 
@@ -44,28 +44,29 @@ Conjunto de dados em uma só variável -> [ ]
 
 ----
 
-- *Álgebra booleana = base dos computadores*
+- Álgebra booleana = base dos computadores
 
-- *Problemas computacionais: de decisão, de busca, de otimização*
+- Problemas computacionais: de decisão, de busca, de otimização
 
-- *==TRADUÇÃO: Programa fonte (linguagem alto nível) -> Compilador -> Programa Objeto (linguagem de máquina)==*
+- **TRADUÇÃO: Programa fonte (linguagem alto nível) -> Compilador -> Programa Objeto (linguagem de máquina)**
 
-- *INTERPRETAÇÃO: Código é executado sem ser traduzido*
+- INTERPRETAÇÃO: Código é executado sem ser traduzido
 
-- *Diretrizes de desenvolvimento de programas: legibilidade, redigibilidade, confiabilidade e custo baixo*
+- Diretrizes de desenvolvimento de programas: legibilidade, redigibilidade, confiabilidade e custo baixo
 
-- *Análise de código (para traduzir): léxica, sintática e semântica*
+- Análise de código (para traduzir): léxica, sintática e semântica
 
   
 
-- ==Programação estruturada(PE):==
+- **Programação estruturada(PE):**
 
   - Problemas simples e diretos
   - Utilizada para aprender programação
   - sequencial
   - Ex: C
 
-- ==Programação orientada à objetos (POO):==
+- **Programação orientada à objetos (POO):**
+  
   - análogo ao mundo real
   - objetos possuem atributos, comportamentos e estados
   - Classes (alocação da memória de instâncias/objetos)
