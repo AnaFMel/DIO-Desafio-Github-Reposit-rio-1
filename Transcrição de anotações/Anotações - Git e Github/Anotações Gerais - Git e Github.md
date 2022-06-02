@@ -21,7 +21,7 @@
   - **'ls'** -- lista arquivos daquela pasta/diretório
   - **'git init'** --inicia um repositório do git naquele local
   - **'git add'** -- move arquivos específicos para staged (versionamento do código)
-  - **'git add *** ou **'git add .'** --pega tudo que foi modificado e manda para staged
+  - **'git add ** ou **'git add .'** --pega tudo que foi modificado e manda para staged
   - **'git commit -m'** -- comita arquivos
   - **'mv'** - move arquivos
   - **'git clone'** -- clona repositórios remotos para o seu repositório local
